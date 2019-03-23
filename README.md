@@ -1,5 +1,4 @@
-# TODO: apply the chatbot in the webpage, build a web
- #     train the specific data: the health advice.
+# TODO: apply the chatbot in the webpage, build a web; train the specific data: the health advice.
 ![ChatterBot: Machine learning in Python](https://i.imgur.com/b3SCmGT.png)
 
 # ChatterBot
